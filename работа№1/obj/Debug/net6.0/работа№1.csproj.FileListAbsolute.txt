@@ -1,0 +1,15 @@
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\bin\Debug\net6.0\работа№1.exe
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\bin\Debug\net6.0\работа№1.deps.json
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\bin\Debug\net6.0\работа№1.runtimeconfig.json
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\bin\Debug\net6.0\работа№1.dll
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\bin\Debug\net6.0\работа№1.pdb
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\работа№1.csproj.AssemblyReference.cache
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\работа№1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\работа№1.AssemblyInfoInputs.cache
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\работа№1.AssemblyInfo.cs
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\работа№1.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\работа№1.dll
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\refint\работа№1.dll
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\работа№1.pdb
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\работа№1.genruntimeconfig.cache
+C:\Users\Evgeniy D\Desktop\GB\учёба с 24.01.23\Контрольная работа первый курс\работа№1\obj\Debug\net6.0\ref\работа№1.dll
